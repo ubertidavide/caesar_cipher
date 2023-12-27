@@ -43,6 +43,7 @@ Encrypted: khoor zruog
 
 ### Decrypt Text
 
+Command:
 ```bash
 python caesar_cipher.py --decrypt --text 'khoor zruog' --shiftment 3
 ```
@@ -54,6 +55,7 @@ Decrypted: hello world
 
 ### Bruteforce Attack
 
+Command:
 ```bash
 python caesar_cipher.py --bruteforce --text 'khoor zruog'
 ```
@@ -89,6 +91,7 @@ Shiftment 25; Decrypted: lipps asvph
 
 ### Frequency Attack
 
+Command:
 ```bash
 python caesar_cipher.py --frequency --text 'khoor zruog'
 ```
