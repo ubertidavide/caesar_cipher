@@ -87,6 +87,7 @@ Shiftment 22; Decrypted: olssv dvysk
 Shiftment 23; Decrypted: nkrru cuxrj
 Shiftment 24; Decrypted: mjqqt btwqi
 Shiftment 25; Decrypted: lipps asvph
+Shiftment 26; Decrypted: khoor zruog
 ```
 
 ### Frequency Attack
