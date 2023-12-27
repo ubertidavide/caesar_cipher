@@ -110,7 +110,7 @@ def main():
         print(f'Decrypted: {decrypted}')
 
     if args.bruteforce:
-        for shiftment in range(1, 26):
+        for shiftment in range(1, 27):
             decrypted: str = encode(text=args.text, shiftment=-shiftment)
             print(f'Shiftment {shiftment}; Decrypted: {decrypted}')
 
